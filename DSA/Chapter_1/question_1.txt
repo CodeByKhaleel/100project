@@ -5,3 +5,4 @@ takes array as an input in a function
 returns new array
 square each number
 sort in ascending order
+Ill remove all this once i master web development
